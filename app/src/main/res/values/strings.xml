@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">BusHop</string>
+    <string name="google_maps_API_key">key</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Bushop!</string>
+    <string name="slide_1_desc">The easiest way to track nearby bus stops</string>
+
+    <string name="slide_2_title">Nearby Bus-stops</string>
+    <string name="slide_2_desc">Find nearby bus-stop locations to hop onto the bus</string>
+
+    <string name="slide_3_title">Real-time Schedule</string>
+    <string name="slide_3_desc">Get real-time bus schedule of the bus you want</string>
+
+    <string name="slide_4_title">Excited?</string>
+    <string name="slide_4_desc">Get started</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_temp">BusHop</string>
+
+    <string name="map_off"><i>Map (Location off)</i></string>
+    <string name="aditya_mahajan">Aditya Mahajan</string>
+    <string name="viraj_pathak">Viraj Pathak</string>
+    <string name="vishwajit_patil">Vishwajit Patil</string>
+    <string name="nikhil_karve">Nikhil Karve</string>
+    <string name="vishwajeet_patil">Vishwajeet Patil</string>
+    <string name="todo">TODO</string>
+
+</resources>

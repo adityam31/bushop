@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+   >
+
+
+    <TextView
+        android:gravity="center"
+        android:textAlignment="center"
+        android:id="@+id/bus_no"
+        android:textColor="@color/black"
+        android:layout_width="60dp"
+        android:layout_height="55dp"
+
+        android:text="route_no" />
+    
+
+        
+        <TextView
+            android:gravity="center"
+            android:layout_width="95dp"
+            android:textColor="@color/black"
+            android:layout_height="55dp"
+            android:text="source"
+            android:id="@+id/source"
+            />
+            <TextView
+                android:layout_width="95dp"
+                android:layout_height="55dp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:text="destination"
+                android:id="@+id/destination"
+
+                />
+        <TextView
+            android:layout_width="80dp"
+            android:layout_height="55dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:text="Time"
+            android:id="@+id/time"
+
+            />
+
+
+
+</LinearLayout>
