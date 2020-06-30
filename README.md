@@ -12,3 +12,10 @@ BusHop is an android application which tracks user's current location and helps 
 ## Note
 
 This Android project was part of [Third Year (Semester 5) Skill Development Lab curriculum](http://collegecirculars.unipune.ac.in/sites/documents/Syllabus%202017/TE_Computer_Engg_Syllabus_2015_Course_10.072018.pdf). We all were *beginners* back then. Apologies if standards were not followed.
+
+## Output Screenshots
+
+![Login Screen](https://github.com/adityam31/bushop/blob/master/output-screenshots/op1.jpeg)
+![Home Screen and Navigation Bar](https://github.com/adityam31/bushop/blob/master/output-screenshots/op2.jpeg)
+![Search Feature](https://github.com/adityam31/bushop/blob/master/output-screenshots/op3.jpeg)
+![Map Feature](https://github.com/adityam31/bushop/blob/master/output-screenshots/op4.jpeg)
